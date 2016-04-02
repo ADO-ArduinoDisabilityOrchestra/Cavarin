@@ -1,14 +1,13 @@
-# Cavarin - Getting Started!
+# Cavarin
+an ADO instruments
 
-### Hardware
- * Arduino Leonardo
- * 2 Pots 10k
- * 1 HC SR04
- * 1 JANSJO gooseneck
- * 1 Clamp
- * 1 Plexiglass cover
- * 4 spacer
- 
-### Software
- * Tested with Arduino IDE 1.6.3 https://www.arduino.cc/en/Main/Software
- * Download Arduino Arcore from https://github.com/rkistner/arcore
+## Hardware
+Buy some stuff
+
+## Software
+Download Arduino from arduino.cc
+Download microsmooth
+Download arcore
+
+## Midi
+https://www.native-instruments.com/en/support/knowledge-base/show/998/how-to-monitor-the-input-of-a-midi-controller/
